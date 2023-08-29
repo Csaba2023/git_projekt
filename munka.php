@@ -7,8 +7,8 @@
 //osszeadas
 //----------------------------
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 150;
 $c = 12;
 
 print $a + $b + $c;
@@ -21,6 +21,8 @@ $x = 17;
 $y = 12;
 
 print <br /><br /> . $x - $y;
+print "Konfliktus lesz..."
+
 //kivonas1.0 ag vege
 
 
