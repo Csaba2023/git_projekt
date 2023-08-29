@@ -14,4 +14,7 @@ $c = 12;
 print $a + $b + $c;
 
 
+
+
+//itt a VEGE
 ?>
