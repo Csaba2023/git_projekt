@@ -16,5 +16,5 @@ print $a + $b + $c;
 
 
 
-//itt a VEGE
+//itt a vege :)
 ?>
