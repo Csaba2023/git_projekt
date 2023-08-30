@@ -3,7 +3,7 @@
 **oktatovideo** alapjan
 
 
-                  *formazot*
+                  *formazott*
 
 
 
