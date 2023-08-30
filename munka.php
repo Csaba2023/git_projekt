@@ -26,6 +26,13 @@ print "Konfliktus lesz..."
 //kivonas1.0 ag vege
 
 
+//osztas
+//----------
+
+$egyik = 25;
+$masik = 5;
+
+print $egyik / $masik . "<br /><br />";
 
 //szorzas
 //----------
