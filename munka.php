@@ -53,4 +53,8 @@ print ($kicsi * $nagy) . "<br /><br />";
 
 
 //itt a vege :(
+
+
+
+//sajat gepen frissitve, klonozottbol
 ?>
