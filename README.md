@@ -21,8 +21,16 @@ youtube: https://www.youtube.com/
   
 ebben a sorban beillesztett `<b>kodreszlet</b>` van
 
+
+### PHP kod
 ```php
 $a = 1231;
 $b = 657;
 echo $a + $b;
+```
+
+### java kod
+```java
+public int a = 10;
+private int n = 0;
 ```
