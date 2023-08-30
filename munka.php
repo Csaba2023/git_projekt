@@ -18,14 +18,32 @@ print $a + $b + $c + $d ;
 //kivonas1.0
 //----------
 
-$x = 17;
+$x = 15;
 
-$y = 12;
+$y = 59;
+$z = 370;
 
-print <br /><br /> . $x - $y;
-print "Konfliktus lesz..."
+print <br /><br /> . $z - $y - $x . "<br /><br />";
 
 //kivonas1.0 ag vege
+
+
+//osztas
+//----------
+
+$egyik = 25;
+$masik = 5;
+
+print $egyik / $masik . "<br /><br />";
+
+//szorzas
+//----------
+
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
 
 
 
