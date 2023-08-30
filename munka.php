@@ -16,13 +16,12 @@ print $a + $b + $c;
 //kivonas1.0
 //----------
 
-$x = 17;
+$x = 15;
 
-$y = 12;
-$z = 37;
+$y = 59;
+$z = 370;
 
-print <br /><br /> . $x - $y;
-print "Konfliktus lesz..."
+print <br /><br /> . $z - $y - $x;
 
 //kivonas1.0 ag vege
 
