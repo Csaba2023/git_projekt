@@ -19,6 +19,7 @@ print $a + $b + $c;
 $x = 17;
 
 $y = 12;
+$z = 37;
 
 print <br /><br /> . $x - $y;
 print "Konfliktus lesz..."
