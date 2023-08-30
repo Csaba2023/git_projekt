@@ -21,6 +21,9 @@ youtube: https://www.youtube.com/
   
 ebben a sorban beillesztett `<b>kodreszlet</b>` van
 
-```
-itt a kod
+```php
+$a = 1231;
+$b = 657;
+
+echo $a + $b;
 ```
