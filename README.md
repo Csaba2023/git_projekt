@@ -19,3 +19,8 @@ youtube: https://www.youtube.com/
 [youtube](https://www.youtube.com/)
 
   
+ebben a sorban beillesztett `<b>kodreszlet</b>` van
+
+```
+itt a kod
+```
