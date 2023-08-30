@@ -26,6 +26,24 @@ print <br /><br /> . $z - $y - $x . "<br /><br />";
 //kivonas1.0 ag vege
 
 
+//osztas
+//----------
+
+$egyik = 25;
+$masik = 5;
+
+print $egyik / $masik . "<br /><br />";
+
+//szorzas
+//----------
+
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
+
+
 
 //itt a vege :(
 ?>
