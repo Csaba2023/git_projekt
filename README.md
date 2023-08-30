@@ -24,6 +24,5 @@ ebben a sorban beillesztett `<b>kodreszlet</b>` van
 ```php
 $a = 1231;
 $b = 657;
-
 echo $a + $b;
 ```
