@@ -27,5 +27,16 @@ print "Konfliktus lesz..."
 
 
 
+//szorzas
+//----------
+
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br /><br />";
+
+
+
+
 //itt a vege :(
 ?>
